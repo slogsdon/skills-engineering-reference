@@ -1,8 +1,8 @@
 # skills-engineering-reference
 
-Engineering language and standards reference skills for Claude Code.
+Engineering language and standards reference skills for Claude Code. 8 skills covering TypeScript, vanilla JS, CSS, PHP, web standards, database, dependencies, and auth.
 
-Install via the slogsdon-claude-code-config marketplace.
+Install via the [slogsdon-claude-code-config marketplace](https://github.com/slogsdon/claude-code-config).
 
 ## Skills
 
@@ -14,3 +14,7 @@ Install via the slogsdon-claude-code-config marketplace.
 - **database** — Database design and optimization
 - **dependencies** — PHP dependency management and security (Composer)
 - **auth** — Secure authentication and authorization systems
+
+## License
+
+MIT — see [LICENSE](LICENSE).
