@@ -1,0 +1,7 @@
+{
+  "name": "skills-engineering-reference",
+  "version": "0.1.0",
+  "description": "Engineering language and standards reference skills — TypeScript, vanilla JS, CSS architecture, PHP project structure, web standards, database, dependencies, and auth patterns.",
+  "author": { "name": "Shane Logsdon" },
+  "license": "MIT"
+}
