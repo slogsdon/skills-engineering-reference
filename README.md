@@ -1,3 +1,5 @@
+> **[shane.logsdon.io](https://shane.logsdon.io)** — writing and projects on agentic workflows, web standards, and payments engineering.
+
 # skills-engineering-reference
 
 Engineering language and standards reference skills for Claude Code. 8 skills covering TypeScript, vanilla JS, CSS, PHP, web standards, database, dependencies, and auth.
